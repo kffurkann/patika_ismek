@@ -8,7 +8,7 @@ WHERE country LIKE '_____%n';
 
 -- 3.SORU
 SELECT title FROM film
-WHERE title ILIKE '%T%%T%%T%%T%';
+WHERE title ILIKE '%T%T%T%T%';
 
 -- 4.SORU
 SELECT * FROM film
